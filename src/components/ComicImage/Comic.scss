@@ -1,0 +1,17 @@
+.comic-container{
+    div{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        span{
+            font-size: 0.6em;
+        }
+    }
+    p{
+        width: 60%;
+        margin: 10px auto;
+        text-align: center;
+    }
+    
+}
